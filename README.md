@@ -8,7 +8,7 @@ Além da mudança de tema e cores, adicionei um efeito hover semelhante aos card
 
 ![Preview](./.github/Preview.png)
 
->[🔗 Clique aqui para acessar]
+>[🔗 Clique aqui para acessar](https://luancontreiras.github.io/NLW-eSports-Desafio/)
 
 ## 💻 Tecnologia
 
