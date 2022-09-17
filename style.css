@@ -26,11 +26,11 @@ body{
 
 header{
   text-align: center;
-  margin-block: 32px;
+  margin-block: 24px;
 }
 
 header img{
-  width: 150px;
+  width: 120px;
   border-radius: 50%;
 
   background-image: linear-gradient(90deg, #F4D941 0%, #F23DE3 50%, #EC8235 100%);
@@ -71,20 +71,20 @@ section p{
 }
 
 section .img-list{
-  margin-top: 24px;
+  margin-top: 16px;
 
   display: flex;
   gap: 16px;
 }
 
 section .img-list img{
-  width: 140px;
+  width: 110px;
 }
 
 section ul{
   display: flex;
   gap: 16px;
-  margin-top: 24px;
+  margin-top: 16px;
 }
 
 section ul li{
